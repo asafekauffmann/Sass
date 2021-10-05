@@ -1,21 +1,17 @@
 @import "./variables";
 @import "./header";
 
-
-* {
-   border-style: border-box;
-   margin: 0;
-   padding: 0;
-}
+* { border-style: border-box; margin: 0; padding: 0; }
 
 .contact {
    @include flexCenter(row, rgb(32, 63, 200));
    width: 100% - 20%;
 }
 
-   /* .contact {
+/*    .contact {
          @extend header;
          backgorund: lightcoral;
          background: rgb(168, 58, 58);
          width: 100% - 20%;
-      }  */
+      }  
+*/

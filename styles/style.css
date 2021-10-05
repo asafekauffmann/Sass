@@ -51,10 +51,11 @@ header button::after {
   width: 80%;
 }
 
-/* .contact {
+/*    .contact {
          @extend header;
          backgorund: lightcoral;
          background: rgb(168, 58, 58);
          width: 100% - 20%;
-      }  */
+      }  
+*/
 /*# sourceMappingURL=style.css.map */
